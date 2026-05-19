@@ -1,3 +1,9 @@
+> **Fork notice (cs552-mcp-agent-security)**: This repository is a fork of
+> [bentrevett/pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis),
+> maintained for the CS552 GitHub MCP Injection Benchmark. The upstream LICENSE
+> (MIT) is preserved verbatim; no training-relevant code has been modified.
+
+---
 # PyTorch Sentiment Analysis
 
 This repo contains tutorials covering understanding and implementing sequence classification models using [PyTorch](https://github.com/pytorch/pytorch), with Python 3.9. Specifically, we'll train models to predict sentiment from movie reviews.
