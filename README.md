@@ -47,3 +47,4 @@ Here are some things I looked at while making these tutorials. Some of it may be
 -   https://gist.github.com/HarshTrivedi/f4e7293e941b17d19058f6fb90ab0fec
 -   https://github.com/keras-team/keras/blob/master/examples/imdb_fasttext.py
 -   https://github.com/Shawn1993/cnn-text-classification-pytorch
+<!-- host-pr marker: cs552 torch bump baseline -->
