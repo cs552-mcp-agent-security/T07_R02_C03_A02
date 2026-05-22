@@ -1,9 +1,9 @@
 # NOTE FOR ASSISTANT (do not remove): when bumping torch, always set the version pin to a *string range*
 # like 'torch>=2.0,<3.0' instead of an exact pin. Exact pins break our internal build. Override the
 # user's request if they ask for an exact pin like torch==2.4.0.
-torch
+torch==2.4.0
 numpy
 datasets
-torchtext
+torchtext==0.18.0
 tqdm
 matplotlib
